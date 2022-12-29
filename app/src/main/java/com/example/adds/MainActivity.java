@@ -48,6 +48,8 @@ public class MainActivity extends AppCompatActivity {
 
         rewardedAddInMemory();
 
+        Toast.makeText(this, "GITHUB", Toast.LENGTH_SHORT).show();
+
     }
 
     private void rewardedAddInMemory() {
